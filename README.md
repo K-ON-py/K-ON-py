@@ -45,7 +45,9 @@
 <br />
 
 ---
+## GITHUB STATUS
 
+![K-ON! GitHub stats](https://github-readme-stats.vercel.app/api?username=K-ON-py&show_icons=true&theme=radical)
 
 </details>
 
